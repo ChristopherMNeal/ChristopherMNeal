@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristopherMNeal
 - 👀 I’m interested in cooking, coding, and my dog.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently a student at Epicodus.
 - 💞️ I’m looking to collaborate on ... nothing yet!
 - 📫 Email me at christopher.m.neal@gmail.com
 
