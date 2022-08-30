@@ -1,4 +1,5 @@
 # Hi, I’m [Christopher Neal](https://www.linkedin.com/in/christophermneal/) (he/him)
+<!--- 
 ## I'm an [Epicodus Bootcamp](https://www.epicodus.com/) graduate specializing in:
 * HTML, CSS, Bootstrap
 * JavaScript ES6+, jQuery, Jest
@@ -7,6 +8,7 @@
 * Git, GitHub
 * MySQL, Postgres, Firebase
 * Rspec, Capybara
+--->
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=christophermneal&theme=tokyonight&show_icons=true)
 
